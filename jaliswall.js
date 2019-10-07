@@ -1,7 +1,3 @@
-/*
-JALISWALL 0.1
-by Pierre Bonnin - @PierreBonninPRO - 2015
-*/
 (function($) {
   $.fn.jaliswall = function(options) {
     this.each(function() {
@@ -134,4 +130,4 @@ by Pierre Bonnin - @PierreBonninPRO - 2015
     return this;
   };
 })(jQuery);
-s
+s;
